@@ -1,0 +1,8 @@
+.project
+.cproject
+*.launch
+.settings
+.idea
+*.ld
+
+Debug
